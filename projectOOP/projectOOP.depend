@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1744402222 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\classroom.cpp
+	"Classroom.h"
+	<iostream>
+
+1744461998 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\classroom.h
+	<iostream>
+
+1744402219 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\course.cpp
+	"Course.h"
+	<iostream>
+
+1744402218 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\course.h
+	<iostream>
+
+1744402230 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\exam.cpp
+	"Exam.h"
+
+1744402223 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\exam.h
+	<iostream>
+
+1744402206 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1744420021 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\person.h
+	<iostream>
+
+1744574642 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\student.cpp
+	"Student.h"
+	<Person.h>
+	<iostream>
+
+1744402208 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\student.h
+	<Person.h>
+
+1744579870 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\main.cpp
+	<Person.h>
+	<Student.h>
+	<School.h>
+	<iostream>
+
+1744578412 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\school.h
+	<string>
+	"Student.h"
+	"Teacher.h"
+	"Staff.h"
+	"Course.h"
+	"Classroom.h"
+	<iostream>
+
+1744418526 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\teacher.h
+	<Person.h>
+	<iostream>
+
+1744461998 e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\include\staff.h
+	"Person.h"
+
+1744402213 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\teacher.cpp
+	"Teacher.h"
+	<Person.h>
+	<iostream>
+
+1744419941 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\staff.cpp
+	"Staff.h"
+	<Person.h>
+	<iostream>
+
+1744581079 source:e:\new folder\«·ﬂ·Ì…\oop with eraasoft\projectoop\src\school.cpp
+	"School.h"
+	<iostream>
+
